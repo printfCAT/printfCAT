@@ -1,4 +1,4 @@
-<h1 align="center">printfCAT</h1>
+<p align="center">printfCAT</p>
 
 <!--
 **printfCAT/printfCAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
