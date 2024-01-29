@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 Hi, I'm [Cliff Omanyo](https://www.linkedin.com/in/cliff-omanyo-374449223/). I am a software developer and data analyst who hopes to become a data scientist and solve real-world problems and challenges. I enjoy playing video games 'casually' during my free time and identifying new technologies that may reinforce my prowess as a data scientist. I love cats 🐈.
 
 [![printfCAT's GitHub stats](https://github-readme-stats.vercel.app/api?username=printfCAT&hide=prs,issues&show_icons=true&theme=catppuccin_mocha)](https://github.com/printfCAT/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=printfCAT&layout=donut)](https://github.com/printfCAT/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=printfCAT&layout=compact)
