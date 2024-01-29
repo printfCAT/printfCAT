@@ -24,6 +24,10 @@ Hi, I'm [Cliff Omanyo](https://www.linkedin.com/in/cliff-omanyo-374449223/). I a
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=printfCAT&layout=compact&theme=catppuccin_mocha)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![printfCAT's GitHub stats](https://github-readme-stats.vercel.app/api?username=printfCAT&hide=issues&show_icons=true&theme=catppuccin_mocha)](https://github.com/printfCAT/github-readme-stats)
 
