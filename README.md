@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm [Cliff Omanyo](https://www.linkedin.com/in/cliff-omanyo-374449223/), a software developer and data analyst who hopes to become a data scientist and solve real-world problems and challenges. I enjoy learning new technologies that may reinforce my prowess as a data scientist.
+I'm [Cliff Omanyo](https://www.linkedin.com/in/cliff-omanyo-374449223/), a software developer and data analyst with a dream to become a data scientist and solve real-world problems and challenges. I enjoy learning new technologies that may reinforce my prowess as a data scientist.
 
 [![wakatime](https://wakatime.com/badge/user/018d5428-1425-4729-8bf4-d05b1d8c7781.svg)](https://wakatime.com/@018d5428-1425-4729-8bf4-d05b1d8c7781)
 
